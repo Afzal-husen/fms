@@ -1,0 +1,5 @@
+﻿sr,id,vehicle_name,add_date,description,amount,type,status
+3,9658998cdfc49cab0f0e,hero honda,6/22/23,added fuel on trip,25000,expense,0
+2,01f0b4aa690830b81972,hero ,6/21/23,added fuel on trip,1200,income,0
+5,2894916fafd2b1aecc65,bajaj,6/22/23,trip to mumbai,5000,income,0
+6,5de680fdedbaef709183,hero ,6/23/23,trip to mumbai,5000,income,0

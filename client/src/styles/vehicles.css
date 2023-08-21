@@ -1,0 +1,28 @@
+.pagination > li {
+    list-style: none;
+    /* border: 0.3px solid; */
+    box-shadow:  0.1px 0.1px 5px  #bbbbbb;
+  }
+  .pagination > li > a,
+  .pagination > li > span {
+    float: left;
+    padding: 5px 10px;
+    line-height: 1.5;
+    border: 1px solid #ddd;
+    margin-left: -1px;
+  }
+  
+  .pagination > li.active > a {
+    color: #fff;
+    background-color: #228bec;
+    border-color: #228bec;
+  }
+  .pagination > li > a:hover {
+    background-color: #228bec;
+    color: white;
+    cursor: pointer;
+  }
+  .pagination > li:first-child > a,
+  .pagination > li:first-child > span {
+    margin-left: 0;
+  }
